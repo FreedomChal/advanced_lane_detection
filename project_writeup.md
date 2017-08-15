@@ -34,7 +34,7 @@ First, to calibrate the camera, I used opencv's cv2.findChessboardCorners and cv
 
 First I undistorted the image using the matrix and destination points from the camera calibration.
 
-#### Original:
+#### Original (you can ignore the size difference):
 ![alt text][image1]
 
 #### Undistorted:
